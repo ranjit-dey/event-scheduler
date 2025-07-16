@@ -33,3 +33,5 @@
 > https://ranjit-dey.github.io/event-scheduler
 
 # event-scheduler
+
+> Remove the demo events if you are opening for first time
